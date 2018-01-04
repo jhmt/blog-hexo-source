@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# Hexo generated files
+public/
+
+# Hexo deploy files
+.deploy_git
+
+# Hexo db file
+db.json*
